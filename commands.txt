@@ -7,3 +7,4 @@ clone
 mkdir
 ommit
 bebe
+nice
