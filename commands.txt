@@ -1,3 +1,5 @@
 status
 add
 log
+push
+commit
