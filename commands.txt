@@ -3,3 +3,7 @@ add
 log
 push
 commit
+clone
+mkdir
+ommit
+bebe
